@@ -65,14 +65,14 @@
 <table align="center" border="0" style="margin-top: 5px;">
   <tr>
     <td align="center" width="50%" style="padding: 5px; vertical-align: top;">
-      <img src="https://cdn-icons-png.flaticon.com/512/2554/2554922.png" alt="Projects" width="35" height="35" style="filter: invert(1);" />
+      <img src="https://freepngimg.com/download/ubuntu/59863-backtrack-kali-briefings-black-linux-test-penetration.png" alt="Projects" style="width: 70px; height: auto; filter: invert(1); border: none; outline: none;" />
       <h5 style="margin: 5px 0;">Security Audits, Homelab & IoT</h5>
       <p align="left" style="font-size: 0.8rem; line-height: 1.3;">
         Documenting full-chain security audits (<b>wp-pie-exploit</b>) and web exploitation. Building self-hosted environments (<b>Nextcloud, DNS-Guard</b>) on <b>Raspberry Pi</b> bypassing CGNAT. Developing <b>Python</b> stealth network scanners and <b>IoT</b> security systems (esp32-motion-alarm) using microcontrollers.
       </p>
     </td>
     <td align="center" width="50%" style="padding: 5px; vertical-align: top;">
-      <img src="https://cdn-icons-png.flaticon.com/512/2232/2232688.png" alt="Education" width="35" height="35" style="filter: invert(1);" />
+      <img src="https://toppng.com/uploads/thumbnail/education-icon-white-png-education-logo-png-white-11562973039axwrzopbom.png" alt="Education" style="width: 70px; height: auto; filter: invert(1); border: none; outline: none;" />
       <h5 style="margin: 5px 0;">Education & Write-ups</h5>
       <p align="left" style="font-size: 0.8rem; line-height: 1.3;">
         Computer Engineering student driven to understand technology from the kernel up. Active in <b>DockerLabs</b> with published write-ups on CVEs, privilege escalation, and web vulnerabilities. Developing adaptability and resilience through international multicultural experiences.
