@@ -91,7 +91,10 @@
   
   <br/><br/>
   
-  <a href="https://www.linkedin.com/in/franlrs" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn Badge" />
-  </a>
+<a href="https://www.linkedin.com/in/franlrs" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn Badge" />
+</a>
+<a href="https://portfolio.franlrs.blog" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Portfolio_&_Writeups-portfolio.franlrs.blog-blueviolet?style=for-the-badge" height="28" alt="Portfolio & Writeups" />
+</a>
 </div>
